@@ -1,0 +1,49 @@
+h1{
+    background-color: palevioletred; /* colocando a cor laranja como fundo */
+    text-align: right; /* alinhando o texto à direita */
+    font-style: italic; /* colocando itálico no texto */
+    padding: 5px; /* colocndo 5 pixels de margem interna */
+    font-family: "Playfair Display", serif;
+}
+
+.centraliza{
+    text-align: center; /* centralizar o texto*/
+}
+
+.arredondar{
+    border-radius:100% /* arredondar a imagem*/
+}
+h2{
+    background-color: rgb(200, 190, 190);
+    padding: 5px;
+}
+h3{
+    background-color: #000;
+    color: #fff;
+    text-align: left!important;
+    padding: 10px;
+}
+
+.itálico{
+    font-style: italic;
+}
+
+#principal{
+    width: 50%; /* colocando a região em 50% do total*/
+    margin: 0 auto; /* colado na parte superior e com o alinhamento horizontal automático*/
+    border: fuchsia dashed 5px; /* borda fuschia tracejada e com 2 pixels de espessura*/   
+}
+
+p{
+    padding-left: 20px;
+}
+
+.caixinha{
+    background-color: cadetblue;
+    width: 200px;
+    display: inline-block;
+}
+
+img{
+    width: 100%;
+}
